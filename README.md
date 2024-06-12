@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🤵‍♂ Hi, I’m Nguyễn Ngọc Chính, a Web Developer, a Fullstack Web Developer <br/>
+ &emsp;🤵‍♂ Hi, I’m Nguyễn Ngọc Chính, a Web Developer, a Fullstack Web Developer <br/>
  😄 Pronouns: He/him <br/>
  💞️ I’m interested in programming and coding, building projects <br/>
  👯 I’m actively seeking job opportunities <br/>
