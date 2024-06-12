@@ -1,4 +1,4 @@
-##👋 Hi there, 
+## 👋 Hi there, 
 
 <!--
 **ngchinhdev/ngchinhdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🤵‍♂ Hi, I’m Nguyễn Ngọc Chính, a Web Developer, a Fullstack Web Developer
- 😄 Pronouns: He/him
- 💞️ I’m interested in programming and coding, building projects
- 👯 I’m actively seeking job opportunities
- 🌱 I’m currently learning and developing website
- 🛠️ My skills: 
-    - Frontend: HTML, CSS, Bootstrap 5, TailwindCSS, JavaScript, TypeScript, ReactJS, Angular
-    - Backend: NodeJS(ExpressJS), RestfulAPI, MVC Architecture
-    - Database: MongoDB(Mongoose), MySQL
-    - Tools: Git, Github, Postman, Swagger, Deploy, Figma
-    - Soft skills: Teamwork, English Communication, Self-learning
- 📬 You can reach me by contact via:
-    - Email: chinhnguyennn24@gmail.com
+ 🤵‍♂ Hi, I’m Nguyễn Ngọc Chính, a Web Developer, a Fullstack Web Developer <br/>
+ 😄 Pronouns: He/him <br/>
+ 💞️ I’m interested in programming and coding, building projects <br/>
+ 👯 I’m actively seeking job opportunities <br/>
+ 🌱 I’m currently learning and developing website <br/>
+ 🛠️ My skills: <br/>
+    - Frontend: HTML, CSS, Bootstrap 5, TailwindCSS, JavaScript, TypeScript, ReactJS, Angular <br/>
+    - Backend: NodeJS(ExpressJS), RestfulAPI, MVC Architecture <br/>
+    - Database: MongoDB(Mongoose), MySQL <br/>
+    - Tools: Git, Github, Postman, Swagger, Deploy, Figma <br/>
+    - Soft skills: Teamwork, English Communication, Self-learning <br/>
+ 📬 You can reach me by contact via: <br/>
+    - Email: chinhnguyennn24@gmail.com <br/>
     - Website: https://ngchinh.io.vn
