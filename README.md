@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  &emsp;🤵‍♂ Hi, I’m Nguyễn Ngọc Chính, a Web Developer, a Fullstack Web Developer <br/>
- 😄 Pronouns: He/him <br/>
- 💞️ I’m interested in programming and coding, building projects <br/>
- 👯 I’m actively seeking job opportunities <br/>
- 🌱 I’m currently learning and developing website <br/>
- 🛠️ My skills: <br/>
-    - Frontend: HTML, CSS, Bootstrap 5, TailwindCSS, JavaScript, TypeScript, ReactJS, Angular <br/>
-    - Backend: NodeJS(ExpressJS), RestfulAPI, MVC Architecture <br/>
-    - Database: MongoDB(Mongoose), MySQL <br/>
-    - Tools: Git, Github, Postman, Swagger, Deploy, Figma <br/>
-    - Soft skills: Teamwork, English Communication, Self-learning <br/>
- 📬 You can reach me by contact via: <br/>
-    - Email: chinhnguyennn24@gmail.com <br/>
-    - Website: https://ngchinh.io.vn
+ &emsp;😄 Pronouns: He/him <br/>
+ &emsp;💞️ I’m interested in programming and coding, building projects <br/>
+ &emsp;👯 I’m actively seeking job opportunities <br/>
+ &emsp;🌱 I’m currently learning and developing website <br/>
+ &emsp;🛠️ My skills: <br/>
+ &emsp;&emsp;- Frontend: HTML, CSS, Bootstrap 5, TailwindCSS, JavaScript, TypeScript, ReactJS, Angular <br/>
+ &emsp;&emsp;- Backend: NodeJS(ExpressJS), RestfulAPI, MVC Architecture <br/>
+ &emsp;&emsp;- Database: MongoDB(Mongoose), MySQL <br/>
+ &emsp;&emsp;- Tools: Git, Github, Postman, Swagger, Deploy, Figma <br/>
+ &emsp;&emsp;- Soft skills: Teamwork, English Communication, Self-learning <br/>
+ &emsp;📬 You can reach me by contact via: <br/>
+ &emsp;&emsp;- Email: chinhnguyennn24@gmail.com <br/>
+ &emsp;&emsp;- Website: https://ngchinh.io.vn
