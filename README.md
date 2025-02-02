@@ -28,3 +28,9 @@ Here are some ideas to get you started:
  &emsp;📬 You can reach me by contact via: <br/>
  &emsp; &emsp; &emsp; 📩 Email: chinhnguyennn24@gmail.com <br/>
  &emsp; &emsp; &emsp; 🌐 Website: https://ngchinh.io.vn
+
+## ⭐ Star the Project!
+
+If you find my repositories or projects useful, feel free to give them a star! ⭐ 
+
+Your support helps these projects get more visibility and motivates me to continue improving. Thanks a lot for your contribution! 🙏
